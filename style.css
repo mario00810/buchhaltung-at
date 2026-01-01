@@ -17,6 +17,11 @@ header {
 }
 
 main {
+  <nav style="font-size:0.9rem; margin-bottom:1rem;">
+  <a href="index.html">Startseite</a> ›
+  <a href="vergleich.html">Vergleich</a>
+</nav>
+
   max-width: 960px;
   margin: 2rem auto;
   padding: 0 1rem;
